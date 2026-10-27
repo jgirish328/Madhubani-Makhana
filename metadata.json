@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mithila Makhana Co. - Direct Madhubani Farm Supply",
+  "description": "Direct farm-fresh GI-tagged Madhubani Makhana by Girish Jha. Minimum order 5kg to bulk commercial supply across India. 100% Verified UPI \u0026 Scanner Payment with express shipping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
